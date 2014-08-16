@@ -262,6 +262,7 @@
 <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense" />
 <project path="hardware/libhardware" name="platform/hardware/libhardware" groups="pdk" />
 <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" groups="pdk" />
+<!--
 <project path="hardware/msm7k" name="platform/hardware/msm7k" />
 <project path="hardware/qcom/audio" name="platform/hardware/qcom/audio" groups="qcom" />
 <project path="hardware/qcom/bt" name="platform/hardware/qcom/bt" groups="qcom" />
@@ -278,6 +279,7 @@
 <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" groups="omap4" />
 <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" />
 <project path="hardware/ti/wpan" name="platform/hardware/ti/wpan" />
+!-->
 <project path="libcore" name="platform/libcore" />
 <project path="libnativehelper" name="platform/libnativehelper" groups="pdk-java" />
 <project path="ndk" name="platform/ndk" />
